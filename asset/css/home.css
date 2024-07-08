@@ -1,0 +1,25 @@
+.banner {
+    margin-bottom: 25px;
+    width: 1350px;
+    height: 425px;
+}
+
+.swiper {
+    width: 1350px;
+}
+
+.about {
+    width: 1000px;
+}
+
+.about > h3 {
+    text-align: center;
+    margin-top: 45px;
+    margin-bottom: 10px;
+}
+
+.about > p {
+    line-height: 20px;
+    word-spacing: 2px;
+    text-align: center;
+}
